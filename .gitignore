@@ -3,6 +3,7 @@
 build
 nbproject
 
+dist
 # Log file
 *.log
 
